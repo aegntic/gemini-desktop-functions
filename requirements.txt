@@ -1,0 +1,16 @@
+# Core dependencies
+google-generativeai>=0.3.0
+keyring>=24.0.0
+sqlalchemy>=2.0.0
+
+# GUI toolkit - choose one (uncomment as needed)
+PySide6>=6.5.0
+# PyQt6>=6.5.0
+# PyGObject>=3.44.0  # For GTK-based UI
+
+# Development dependencies
+pytest>=7.0.0
+black>=23.0.0
+isort>=5.0.0
+pylint>=2.17.0
+mypy>=1.0.0
